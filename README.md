@@ -1,4 +1,7 @@
-﻿# Pan-Tilt HAT  
+# Trying to run this on raspberry pi pico.
+
+
+# Pan-Tilt HAT  
 ## waveshare electronics
 ![waveshare_logo.png](waveshare_logo.png)
 http://www.waveshare.net  
